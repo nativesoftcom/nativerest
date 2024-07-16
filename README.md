@@ -1,12 +1,12 @@
 # NativeRest Support
 
-NativeRest is native REST API client for Windows.
+NativeRest is native REST API client for Windows, macOS and Linux.
 
 ![NativeRest – Native REST API Client for Windows](https://nativesoft.com/static/images/nativerest.png)
 
 ## Download
 
-NativeRest is available for Windows 7, 8, 10, 11 (64-bit) and can be downloaded from the NativeSoft website.
+NativeRest is available for Windows 7, 8, 10, 11 (64-bit), macOS and Linux and can be downloaded from the NativeSoft website.
 
 **[https://nativesoft.com/nativerest](https://nativesoft.com/nativerest)**
 
@@ -33,9 +33,9 @@ If you are looking for more information regarding features, installation, and us
 the [documentation](https://nativesoft.com/docs) section on the NativeSoft website. You can also have a look at our
 [blog](https://nativesoft.com/blog) for interesting tutorials, development stories, and platform updates.
 
-## Mac and Linux
+## YouTube
 
-NativeRest is available only for Windows.
+Watch NativeRest review on our [YouTube channel](https://www.youtube.com/@nativesoft).
 
 ## License
 
