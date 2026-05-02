@@ -13,7 +13,7 @@ NativeRest is available for Windows 7, 8, 10, 11 (64-bit), macOS and Linux and c
 ## Bugs and Feature Requests
 
 If you have a feature request, a question or you would like to file a bug report, please use this
-[GitHub issue tracker](/issues).
+[GitHub issue tracker](https://github.com/nativesoftcom/nativerest/issues).
 
 We recommend that you search the issue tracker to check if someone else has already reported the issue and whether
 there is a known solution that you can use. This would be the fastest way for you to find a solution to any issue
